@@ -2,7 +2,7 @@
 <body>
 <table width="640" align="center" cellspacing="10" class="table">
   <tr>
-    <td class="header">Virtual Key Codes</td>
+    <td class="header">Virtual Key Codes !!Download the PDF for complete codes!! </td>
   </tr>
   <tr>
     <td class="tds">
