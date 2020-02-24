@@ -2,7 +2,7 @@
 <body>
 <table width="640" align="center" cellspacing="10" class="table">
   <tr>
-    <td class="header">Virtual Key Codes !!Download the PDF for complete codes!! </td>
+    <td class="header">Virtual Key Codes <a href="https://github.com/sepehrsohrabi/Decimal-Virtual-Key-Codes/releases/tag/2">!!Download the PDF for complete codes!!</a> </td>
   </tr>
   <tr>
     <td class="tds">
